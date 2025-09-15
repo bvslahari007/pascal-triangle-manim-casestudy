@@ -7,4 +7,14 @@ By:
 Baswa Vinaya Sangeeta Lahari - 2024169782  
 Yadla Sai Sushma - 2024165826  
 P.G. Yuktha Reddy - 2024024788  
-Chintala Sejal - 2024021878
+Chintala Sejal - 2024021878  
+
+All Rights Reserved
+
+Copyright (c) 2025 bvslahari007
+
+This project and its source code are protected by copyright law.
+No part of this project may be copied, reproduced, modified, distributed,
+or used in any form without the prior written permission of the author.
+
+Unauthorized use is strictly prohibited.
