@@ -6,6 +6,7 @@
 This project explores **Pascal’s Triangle** through an immersive combination of **visual** and **conceptual analysis** using **[MANIM](https://www.manim.community/)** an advanced Python animation library tailored for mathematical demonstrations developed by Grant Sanderson (3Blue1Brown)
 
 Our goal is to transform complex mathematical ideas into **intuitive, cinematic experiences** that make learning **engaging and accessible**, especially for students who find abstract concepts challenging.
+
 Visualization on Youtube : [https://youtu.be/yjgW-DHHQ5M]
 ---
 
