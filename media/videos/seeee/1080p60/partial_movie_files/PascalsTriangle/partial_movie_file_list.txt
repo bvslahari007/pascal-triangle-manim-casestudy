@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lahari/manimations/media/videos/seeee/1080p60/partial_movie_files/PascalsTriangle/3977891868_1734327179_2896946251.mp4'

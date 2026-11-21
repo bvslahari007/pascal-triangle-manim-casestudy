@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lahari/manimations/media/videos/sum/1080p60/partial_movie_files/SmileyFace/3977891868_324272360_223132457.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/sum/1080p60/partial_movie_files/SmileyFace/2852726489_4040615993_3549423931.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/sum/1080p60/partial_movie_files/SmileyFace/2852726489_287510274_2749957060.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/sum/1080p60/partial_movie_files/SmileyFace/2852726489_1839128356_1264508255.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/sum/1080p60/partial_movie_files/SmileyFace/2852726489_796273539_1101682277.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/sum/1080p60/partial_movie_files/SmileyFace/2852726489_1839128356_2561430997.mp4'

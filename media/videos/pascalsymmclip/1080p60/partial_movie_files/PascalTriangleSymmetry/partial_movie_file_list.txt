@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lahari/manimations/media/videos/pascalsymmclip/1080p60/partial_movie_files/PascalTriangleSymmetry/3977891868_887681024_223132457.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascalsymmclip/1080p60/partial_movie_files/PascalTriangleSymmetry/2852726489_2178678390_3188452360.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascalsymmclip/1080p60/partial_movie_files/PascalTriangleSymmetry/2852726489_1839128356_2935896385.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascalsymmclip/1080p60/partial_movie_files/PascalTriangleSymmetry/2852726489_3652258924_2401281696.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascalsymmclip/1080p60/partial_movie_files/PascalTriangleSymmetry/2852726489_3154772675_3467884138.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascalsymmclip/1080p60/partial_movie_files/PascalTriangleSymmetry/2852726489_2408024828_1215873711.mp4'

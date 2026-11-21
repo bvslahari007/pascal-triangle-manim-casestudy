@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/3977891868_1078875506_223132457.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/2852726489_807188262_2706937046.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/2852726489_631317189_3681817861.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/2852726489_807188262_2392476954.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/2852726489_889144738_3345428038.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/2852726489_2408024828_54981946.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/2852726489_4125993082_433680035.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/patternintrotext/1080p60/partial_movie_files/DiscoverPascal/2852726489_1754310298_2635707276.mp4'

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lahari/manimations/media/videos/pascal_arrows/1080p60/partial_movie_files/PascalBlackBackground/3977891868_2903527951_223132457.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascal_arrows/1080p60/partial_movie_files/PascalBlackBackground/2852726489_1839128356_518282048.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascal_arrows/1080p60/partial_movie_files/PascalBlackBackground/2852726489_184104735_1662176819.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascal_arrows/1080p60/partial_movie_files/PascalBlackBackground/2852726489_3201849554_4146133621.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascal_arrows/1080p60/partial_movie_files/PascalBlackBackground/2852726489_392326473_3731180498.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascal_arrows/1080p60/partial_movie_files/PascalBlackBackground/2852726489_1849689945_2146720004.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/pascal_arrows/1080p60/partial_movie_files/PascalBlackBackground/2852726489_1734327179_2891257760.mp4'

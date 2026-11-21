@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lahari/manimations/media/videos/startpy/1080p60/partial_movie_files/ProjectInfo/3977891868_1076494880_223132457.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/startpy/1080p60/partial_movie_files/ProjectInfo/2852726489_3201849554_1795860855.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/startpy/1080p60/partial_movie_files/ProjectInfo/2852726489_1607676083_3197403516.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/startpy/1080p60/partial_movie_files/ProjectInfo/2852726489_3201849554_2092595965.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/startpy/1080p60/partial_movie_files/ProjectInfo/2852726489_733851610_1158155555.mp4'
+file 'file:C:/Users/Lahari/manimations/media/videos/startpy/1080p60/partial_movie_files/ProjectInfo/2852726489_2408024828_805479855.mp4'
